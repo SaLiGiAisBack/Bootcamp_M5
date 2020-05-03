@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Bootcamp_M5/static/css/main.1f5214cf.chunk.css",
+    "main.js": "/Bootcamp_M5/static/js/main.7863e1b4.chunk.js",
+    "main.js.map": "/Bootcamp_M5/static/js/main.7863e1b4.chunk.js.map",
+    "runtime-main.js": "/Bootcamp_M5/static/js/runtime-main.d7e4b722.js",
+    "runtime-main.js.map": "/Bootcamp_M5/static/js/runtime-main.d7e4b722.js.map",
+    "static/css/2.b90ce945.chunk.css": "/Bootcamp_M5/static/css/2.b90ce945.chunk.css",
+    "static/js/2.f84b81f2.chunk.js": "/Bootcamp_M5/static/js/2.f84b81f2.chunk.js",
+    "static/js/2.f84b81f2.chunk.js.map": "/Bootcamp_M5/static/js/2.f84b81f2.chunk.js.map",
+    "index.html": "/Bootcamp_M5/index.html",
+    "precache-manifest.a9e432b713032368ad88bba66cc14b16.js": "/Bootcamp_M5/precache-manifest.a9e432b713032368ad88bba66cc14b16.js",
+    "service-worker.js": "/Bootcamp_M5/service-worker.js",
+    "static/css/2.b90ce945.chunk.css.map": "/Bootcamp_M5/static/css/2.b90ce945.chunk.css.map",
+    "static/css/main.1f5214cf.chunk.css.map": "/Bootcamp_M5/static/css/main.1f5214cf.chunk.css.map",
+    "static/js/2.f84b81f2.chunk.js.LICENSE.txt": "/Bootcamp_M5/static/js/2.f84b81f2.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/Bootcamp_M5/static/media/Logo.619a61c4.svg",
+    "static/media/arrow.svg": "/Bootcamp_M5/static/media/arrow.90fc1b8a.svg",
+    "static/media/lens.svg": "/Bootcamp_M5/static/media/lens.0710b8e2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e4b722.js",
+    "static/css/2.b90ce945.chunk.css",
+    "static/js/2.f84b81f2.chunk.js",
+    "static/css/main.1f5214cf.chunk.css",
+    "static/js/main.7863e1b4.chunk.js"
+  ]
+}
