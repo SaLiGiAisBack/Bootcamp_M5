@@ -21,12 +21,18 @@ export const FooterBlock = styled.div`
       color: #ffdc40;
     }
   }
+  @media (max-width: 425px) {
+     padding: 5px;
+  }
 `;
 export const CurrentBalance = styled.p`
   font-size: 36px;
   margin-right: 47%;
   span {
     font-size: 15px;
+  }
+  @media (max-width: 425px) {
+    margin-right:38%;
   }
 `;
 export const HeaderBlock = styled.div`

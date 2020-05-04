@@ -27,6 +27,9 @@ export const Container = styled.main`
       border-bottom: none;
     }
   }
+  @media (max-width: 425px) {
+    padding: 0;
+  }
 `;
 export const StocksContainer = styled.div`
   width: 100%;

@@ -7,6 +7,7 @@ export const MainBuy = styled.div`
   flex-direction: column;
   width: 100%;
   text-align: center;
+  
 `;
 export const CentralBlock = styled.div`
   a {
@@ -41,10 +42,16 @@ export const HeaderBuy = styled.div`
   -webkit-box-shadow: 0px 6px 6px -6px gray;
   -moz-box-shadow: 0px 6px 6px -6px gray;
   box-shadow: 0px 6px 6px -6px gray;
+  @media (max-width: 425px) {
+    padding: 10px;
+  }
   a {
     text-decoration: none;
     color: blueviolet;
     font-size: 18px;
+       @media (max-width: 425px) {
+        font-size: 12px;
+      }
   }
   a:hover {
     text-decoration: underline;
@@ -55,6 +62,10 @@ export const HeaderBuy = styled.div`
     font-size: 28px;
     flex-basis: 92%;
     color: #2fc20a;
+    @media (max-width: 425px) {
+    flex-basis: 80%;
+    font-size: 20px;
+  }
   }
   img {
     width: 12px;

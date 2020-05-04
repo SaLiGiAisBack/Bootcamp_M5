@@ -27,6 +27,9 @@ export const Body = styled.div`
   -webkit-box-shadow: inset 0px 6px 6px -6px gray;
   -moz-box-shadow: inset 0px 6px 6px -6px gray;
   box-shadow: inset 0px 6px 6px -6px gray;
+    @media (max-width: 425px) {
+    padding: 0;
+  }
 `;
 export const DecPartSpan = styled.span`
   font-size: 0.7em;

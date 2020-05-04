@@ -36,6 +36,9 @@ const ChartContainer = styled.div`
   padding: 20px;
   border-radius: 3px;
   border: 0.5px solid blueviolet;
+    @media (max-width: 425px) {
+    display: none;
+  }
 `;
 // Стили Компонента Chart Конец ****
 
